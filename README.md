@@ -46,17 +46,8 @@ The linear regression model assumes that the hedge fund’s exposure to market f
 
 Consequently, the regression model will generate errors if the average exposure is a poor characteristic of the actual exposure at each particular point in the history (or future) of the fund.
 
-Sometimes when a hedge fund maintains substantial positions in derivative securities, such as options, its return cannot be accurately represented by a linear combination of indices because of the non-linear nature of relationship between returns on an option and the return on the underlying security represented by an index. 
+Sometimes when a hedge fund maintains substantial positions in derivative securities, such as barrier options (see https://finpricing.com/lib/EqBarrier.html), its return cannot be accurately represented by a linear combination of indices because of the non-linear nature of relationship between returns on an option and the return on the underlying security represented by an index. 
 
-
-
-Reference:
-
-https://finpricing.com/lib/EqWarrant.html
-
-https://zenodo.org/record/6539344/files/zenodo-hedge-exposure.pdf
-
-https://zenodo.org/record/6539344#.YpDtxagpDq4
 
 
 
